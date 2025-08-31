@@ -48,6 +48,11 @@ http://pbfi199d6f.top:8080/live/es3291730888528001/31c30c64ed8d/391_sd.m3u8?toke
 #EXTINF:-1 tvg-id="Danz la liga  "tvg-name="Danz la liga     " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_ksQdMUyVhmYlbc0jPEMkIR6lQcfi-6YdA&usqp=CAU" group-title="Futbol",Danz la liga
 http://192.142.7.178:8080/live/es3291730888528001/31c30c64ed8d/392_fhd.m3u8?token=SEZcABELRgoQVl8EUAFRU1YJAFABUQFUCANUVwUOW1EKUgxWBgVQAQpBShRCQhMEVl0+CwEVClUAAk0TQ0oHQGwNUENYQVcCB1BEGhNCCAxSEltSSRVAD10SWxMFAFcAAkYYQwcbEFVADQdablIEF15TBEBfWUUKVRxDXlhmBldeBVoFQFlGARBPRF9CRkNbWUUNDkkVUg9NQgBFUxtYXEYIWE1AAAtFXBcUTxMMQzRkEk1AAE9EA1dDCF5YG1gQXldBWUBPRllBPBRTQkITBFZdBBBHDRJWGxxDXFdBPVFcCloEARcNX1wQRAwTB0NNFV0ODAxDXxRmQAhVFANAAQpXBFhAHg==
 
+
+ #EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="DAZN LaLiga 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_ksQdMUyVhmYlbc0jPEMkIR6lQcfi-6YdA&usqp=CAU" group-title="Futbol",DAZN LaLiga2
+http://192.142.36.185:8080/live/es3291730888528001/31c30c64ed8d/394.m3u8?token=SEZcABELRgoQAQcHAA4AAA4AWVEHVgBeAFUCCVdaAANWUVIFUQVXBgVBShRCQhMEVl0+CwEVClUABE0TQ0oHQGwNUENYQVcCB1BEGhNCCAxSEltSSRVAD10SWxMACFIACkYYQwcbEFVADQdablIEF15TBEBfWUUKVRxDXlhmBldeBVoFQFlGARBPRF9CRkNbWUUNDkkVUg9NQgBFUxtYEAFSBVVAT0ZTXRYIQkNPQ1sVZTJASRVVHk1VD0JfVgwQCUZZUhdbRhwQChVpQ1MSFUVVAA8ARRJcGwBDHRRUA0psB1sPDAYHRFsMCEUTDENQFRxDDwpZWRJWQj5BX11ACBFTAVdWQRk=
+
+
  #EXTINF:-1 tvg-id="Moviestar" tvg-name="Moviestar" tvg-logo="https://logo-url.png" group-title="Entretenimiento",Moviestar
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxcjZ0kTZlVDMlJWYtYTZykTLjJmM00SYhdzYtQjZ0QmMmNDZ/master.m3u8
 
