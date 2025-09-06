@@ -1,7 +1,7 @@
 #EXTM3U
  
 
-########## TV EN VIVO ##########
+#--------TV EN VIVO--------
 
 
 
@@ -848,7 +848,7 @@ http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/8254
 
 
 
-########## PELÍCULAS ##########
+#-------PELÍCULAS--------
 
 #EXTINF:-1 tvg-id=" Danz la liga opcion 2      "tvg-name="Danz la liga opcion 2   " tvg-logo="https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png" group-title="PELICULAS",
 https://hfs307.serversicuro.cc/dnzpapaq5tg4a3gyvarh5ntqqfq5h4edn2tyhnnfssf2ee3jhyg35vblwoza/retreat-aislados-2011-2[castellano][supervideo.cc].mp4&kmnr=144061781
@@ -1113,7 +1113,7 @@ http://tv.zapping.life:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/8254
 
 
 
-########## PELÍCULAS ##########
+
 
 #EXTINF:-1 tvg-id=" Danz la liga opcion 2      "tvg-name="Danz la liga opcion 2   " tvg-logo="https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png" group-title="PELICULAS",
 https://hfs307.serversicuro.cc/dnzpapaq5tg4a3gyvarh5ntqqfq5h4edn2tyhnnfssf2ee3jhyg35vblwoza/retreat-aislados-2011-2[castellano][supervideo.cc].mp4&kmnr=144061781
